@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**samtjhia/samtjhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Samuel Tjhia
+- 19 years old
+- CS specialist @ UofT
+- Studio Art minor @ UofT
+- recently:
+  - experience:
+    - Senior Marketing Director @ [CSEC](https://csec.codes/)
+    - First Year Associate @ [AMACSS](https://www.amacss.org/)
+  - projects:
+    - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
+    - **[Disclose](https://github.com/samtjhia/disclose)**: A Chrome extension to analyze the factual accuracy and political bias of online claims and articles.
+    - **[MOMONEY](https://github.com/samtjhia/MOMONEY-HTV9)**: AI-powered personalized financial advice tool.
