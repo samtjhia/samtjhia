@@ -7,6 +7,7 @@
     - Senior Marketing Director @ [CSEC](https://csec.codes/)
     - First Year Associate @ [AMACSS](https://www.amacss.org/)
   - projects:
+    - **[SafePlan](https://github.com/samtjhia/SafePlan)**: Android app to help people facing abuse by offering being the ultimate and secure resource and advice provider
     - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
     - **[Disclose](https://github.com/samtjhia/disclose)**: A Chrome extension to analyze the factual accuracy and political bias of online claims and articles.
     - **[MOMONEY](https://github.com/samtjhia/MOMONEY-HTV9)**: AI-powered personalized financial advice tool.
