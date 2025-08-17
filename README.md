@@ -7,7 +7,9 @@
     - Senior Marketing Director @ [CSEC](https://csec.codes/)
     - First Year Associate @ [AMACSS](https://www.amacss.org/)
   - projects:
-    - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: 2× Winner at Ignition — a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.
-    - **[SafePlan](https://github.com/samtjhia/SafePlan)**: Android app to help people facing abuse by being the ultimate and secure resource and advice provider
+    - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (2× Winner at Ignition)
+    - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
     - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
-    - **[Disclose](https://github.com/samtjhia/disclose)**: A Chrome extension to analyze the factual accuracy and political bias of online claims and articles.
+    - **[Disclose](https://github.com/samtjhia/disclose)**: a chrome extension to analyze the factual accuracy and political bias of online claims and articles.
+  - other:
+    - hacked at Ignition Hacks V.6 and won Best Solo Hack and Best Beginner Hack
