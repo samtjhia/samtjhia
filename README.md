@@ -11,5 +11,3 @@
     - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
     - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
     - **[Disclose](https://github.com/samtjhia/disclose)**: a chrome extension to analyze the factual accuracy and political bias of online claims and articles.
-  - other:
-    - hacked at Ignition Hacks V.6 and won Best Solo Hack and Best Beginner Hack
