@@ -4,10 +4,9 @@
 - Studio Art minor @ UofT
 - recently:
   - experience:
-    - Senior Marketing Director @ [CSEC](https://csec.codes/)
-    - First Year Associate @ [AMACSS](https://www.amacss.org/)
+    - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
-    - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (2× Winner at Ignition)
+    - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (2× Winner at Ignition Hacks 2025)
     - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
     - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
     - **[Disclose](https://github.com/samtjhia/disclose)**: a chrome extension to analyze the factual accuracy and political bias of online claims and articles.
