@@ -11,3 +11,5 @@
     - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
     - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
     - **[Disclose](https://github.com/samtjhia/disclose)**: a chrome extension to analyze the factual accuracy and political bias of online claims and articles.
+    - in progress:
+      - portfolio website coming...
