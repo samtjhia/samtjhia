@@ -7,9 +7,8 @@
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
     - Seeking Winter 2026 internship
   - projects:
+    - **[NavSense](https://github.com/Ibrahimkasiim1/HackthevalleyX)**: mobile app that connects to our smart gloves to convert map navigation into haptic feedback (3rd place at HacktheValley X)
     - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (2× Winner at Ignition Hacks 2025)
     - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
-    - **[BUCK](https://github.com/samtjhia/buck)**: AI-powered budget food finder
-    - **[Disclose](https://github.com/samtjhia/disclose)**: a chrome extension to analyze the factual accuracy and political bias of online claims and articles.
     - in progress:
       - portfolio website coming...
