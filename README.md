@@ -7,6 +7,7 @@
     - Incoming SWE @ [Sun Life](https://www.sunlife.ca/en/)
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
+    - **[Sam's Study Tracker](https://www.samstudy.live/)**: peep into my realtime study insights
     - **[NavSense](https://github.com/Ibrahimkasiim1/HackthevalleyX)**: mobile app that connects to our smart gloves to convert map navigation into haptic feedback (🏆 Winner at HacktheValley X)
     - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (🏆 2× Winner at Ignition Hacks 2025)
     - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
