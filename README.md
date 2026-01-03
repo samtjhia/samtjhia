@@ -4,7 +4,7 @@
 - Studio Art minor @ UofT
 - recently:
   - experience:
-    - Incoming SWE @ [Sun Life](https://www.sunlife.ca/en/)
+    - SWE @ [Sun Life](https://www.sunlife.ca/en/)
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
     - **[Sam's Study Tracker](https://www.samstudy.live/)**: peep into my realtime study insights
