@@ -7,7 +7,7 @@
     - SWE @ [Sun Life](https://www.sunlife.ca/en/)
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
-    - **[Chorus](https://github.com/samtjhia/chorus)**: a multi-agent aac operating system that makes real-time conversational suggestions based on a 7-signal engine (🏆 Winner at UoftHacks 13)
+    - **[Chorus](https://github.com/samtjhia/chorus)**: a multi-agent aac operating system that makes real-time conversational suggestions based on a 7-signal engine (🏆 Winner at UofTHacks 13)
     - **[NavSense](https://github.com/Ibrahimkasiim1/HackthevalleyX)**: mobile app that connects to our smart gloves to convert map navigation into haptic feedback (🏆 Winner at HacktheValley X)
     - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (🏆 2× Winner at Ignition Hacks V6)
     - **[Sam's Study Tracker](https://www.samstudy.live/)**: peep into my realtime study insights
