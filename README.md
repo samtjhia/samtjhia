@@ -1,10 +1,14 @@
 ### Samuel Tjhia
-- 19 years old
-- CS specialist @ UofT
-- Studio Art minor @ UofT
+- 20 years old
+- CS specialist + Studio Art minor @ [UofT](https://www.utoronto.ca/)
+- currently:
+  - DevOps Engineer Intern @ [Sun Life](https://www.sunlife.ca/en/)
+  - Web Developer @ [Hack the Valley](https://hackthevalley.io/)
+  - AI Software Engineer @ [OrbitRA](https://www.orbitra.ca/)
+  - Building [Chorus](https://github.com/samtjhia/chorus)
 - recently:
   - experience:
-    - SWE @ [Sun Life](https://www.sunlife.ca/en/)
+    - SWE Intern @ [Sun Life](https://www.sunlife.ca/en/)
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
     - **[Chorus](https://github.com/samtjhia/chorus)**: a multi-agent aac operating system that makes real-time conversational suggestions based on a 7-signal engine (🏆 Winner at UofTHacks 13)
