@@ -2,12 +2,14 @@
 - 20 years old
 - CS specialist + Studio Art minor @ [UofT](https://www.utoronto.ca/)
 - currently:
-  - DevOps Engineer Intern @ [Sun Life](https://www.sunlife.ca/en/)
+  - Back in school ✍️
   - Web Developer @ [Hack the Valley](https://hackthevalley.io/)
-  - AI Software Engineer @ [OrbitRA](https://www.orbitra.ca/)
   - Building [Chorus](https://github.com/samtjhia/chorus)
 - recently:
   - experience:
+    - Organizer & Judge @ [Hack the Valley 11](https://hackthevalley.io/)
+    - DevOps Engineer Intern @ [Sun Life](https://www.sunlife.ca/en/)
+    - AI Software Engineer @ [OrbitRA](https://www.orbitra.ca/)
     - SWE Intern @ [Sun Life](https://www.sunlife.ca/en/)
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
@@ -16,5 +18,3 @@
     - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (🏆 2× Winner at Ignition Hacks V6)
     - **[Locked In Factory](https://github.com/samtjhia/lockedin)**: peep into my friends realtime study stats
     - **[SafePlan](https://github.com/samtjhia/SafePlan)**: android app to help people facing abuse by being the ultimate and secure resource and advice provider
-    - in progress:
-      - portfolio website coming...
