@@ -13,6 +13,7 @@
     - SWE Intern @ [Sun Life](https://www.sunlife.ca/en/)
     - Director of Technology @ [AMACSS](https://www.amacss.org/)
   - projects:
+    - **[Crowd Control](https://github.com/samtjhia/crowd-control)**: a crowd simulator you control with plain language to test what-ifs like falls and blocked exits and spot dangerous crowding before it happens (🏆 2x Winner at HackTrent 2026)
     - **[Chorus](https://github.com/samtjhia/chorus)**: a multi-agent aac operating system that makes real-time conversational suggestions based on a 7-signal engine (🏆 Winner at UofTHacks 13)
     - **[NavSense](https://github.com/Ibrahimkasiim1/HackthevalleyX)**: mobile app that connects to our smart gloves to convert map navigation into haptic feedback (🏆 Winner at HacktheValley X)
     - **[Soundscaper](https://github.com/samtjhia/soundscaper)**: a web app that turns any text prompt into an immersive AI-curated soundscape with matching visuals for focus, mood, or relaxation.  (🏆 2× Winner at Ignition Hacks V6)
